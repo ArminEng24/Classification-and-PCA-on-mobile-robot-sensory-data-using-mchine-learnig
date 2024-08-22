@@ -1,0 +1,1 @@
+# Classification-and-PCA-on-mobile-robot-sensory-data-using-mchine-learnig

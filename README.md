@@ -1,7 +1,16 @@
 # Classification-and-PCA-on-mobile-robot-sensory-data-using-mchine-learning
 
-## Introduction
+## Description
 This project involves classification and Principal Component Analysis (PCA) on mobile robot sensory data. The goal is to explore the effects of different hyperparameters and PCA dimensions on the classification accuracy.
+
+## Table of Contents  
+- [Dataset](#dataset)  
+- [Code Structure](#codestructure)
+  - [Classification-with-MLPClassifier](#classification-with-mlpclassifier)
+  - [Applying-PCA-and-Perform-Classification-on-Reduced-Datasets](#applying-pca-and-perform-classification-on-reduced-datasets)
+- [Experiments](#experiments)
+- [Results](#results)
+- [Conclusion](#conclusion)
 
 ## Dataset
 The dataset used in this project can be downloaded from Kaggle.
@@ -9,7 +18,7 @@ The dataset used in this project can be downloaded from Kaggle.
 ## Code Structure
 The code is organized into two main sections:
 
-### Classification with MLPClassifier
+### Classification-with-MLPClassifier
 
 - Import necessary libraries and load the dataset
 - Split the data into training and testing sets
@@ -18,7 +27,7 @@ The code is organized into two main sections:
 - Plot the accuracy over training time
 
 
-### Applying PCA and Perform Classification on Reduced Datasets
+### Applying-PCA-and-Perform-Classification-on-Reduced-Datasets
 
 - Load the dataset
 - Define the range of n_components to try

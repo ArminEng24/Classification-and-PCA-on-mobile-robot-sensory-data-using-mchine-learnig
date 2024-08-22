@@ -5,7 +5,7 @@ This project involves classification and Principal Component Analysis (PCA) on m
 
 ## Table of Contents  
 - [Dataset](#dataset)  
-- [Code Structure](#codestructure)
+- [Code-Structure](#code-structure)
   - [Classification-with-MLPClassifier](#classification-with-mlpclassifier)
   - [Applying-PCA-and-Perform-Classification-on-Reduced-Datasets](#applying-pca-and-perform-classification-on-reduced-datasets)
 - [Experiments](#experiments)
@@ -15,7 +15,7 @@ This project involves classification and Principal Component Analysis (PCA) on m
 ## Dataset
 The dataset used in this project can be downloaded from Kaggle.
 
-## Code Structure
+## Code-Structure
 The code is organized into two main sections:
 
 ### Classification-with-MLPClassifier

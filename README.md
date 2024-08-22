@@ -1,4 +1,4 @@
-# Classification-and-PCA-on-mobile-robot-sensory-data-using-mchine-learnig
+# Classification-and-PCA-on-mobile-robot-sensory-data-using-mchine-learning
 
 ## Introduction
 This project involves classification and Principal Component Analysis (PCA) on mobile robot sensory data. The goal is to explore the effects of different hyperparameters and PCA dimensions on the classification accuracy.
